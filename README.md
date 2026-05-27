@@ -1,5 +1,4 @@
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-<br>
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /><br>
 ###
 
 <div align="center">
@@ -19,7 +18,7 @@
 <p align="left">
   - 🔭 I’m currently open to job opportunities as a <strong>Backend Developer (Python)</strong> and <strong>Junior Data Scientist</strong><br>
   - 📚 I'm currently learning <strong>Django</strong> and <strong>FastAPI</strong> to complement my data projects with backend capabilities<br>
-  - 🧠 Skilled in <strong>PHP(Laravel)</strong> <strong>Python(Django)</strong>, <strong>Pandas</strong>, <strong>NumPy</strong>, <strong>SQL(PostgreSQl)</strong>, and visualization tools like <strong>Power BI</strong><br>
+  - 🧠 Skilled in <strong>PHP(Laravel)</strong>, <strong>Python(Django)</strong>, <strong>Pandas</strong>, <strong>NumPy</strong>, <strong>SQL(PostgreSQL)</strong>, and visualization tools like <strong>Power BI</strong><br>
   - ⚡ In my free time, I like analyzing public datasets, building personal projects, and exploring machine learning use cases
 </p>
 
