@@ -17,9 +17,9 @@
 ###
 
 <p align="left">
-  - 🔭 I’m currently open to job opportunities as a <strong>Backend Developer Python</strong> and <strong>Junior Data Scientist</strong><br>
-  - 📚 I'm currently learning <strong>Django</strong> and <strong>Flask</strong> to complement my data projects with backend capabilities<br>
-  - 🧠 Skilled in <strong>Python</strong>, <strong>Pandas</strong>, <strong>NumPy</strong>, <strong>SQL</strong>, and visualization tools like <strong>Power BI</strong> and <strong>Matplotlib</strong><br>
+  - 🔭 I’m currently open to job opportunities as a <strong>Backend Developer (Python)</strong> and <strong>Junior Data Scientist</strong><br>
+  - 📚 I'm currently learning <strong>Django</strong> and <strong>FastAPI</strong> to complement my data projects with backend capabilities<br>
+  - 🧠 Skilled in <strong>PHP(Laravel)</strong>strong> <strong>Python(Django)</strong>, <strong>Pandas</strong>, <strong>NumPy</strong>, <strong>SQL(PostgreSQl)</strong>, and visualization tools like <strong>Power BI</strong><br>
   - ⚡ In my free time, I like analyzing public datasets, building personal projects, and exploring machine learning use cases
 </p>
 
